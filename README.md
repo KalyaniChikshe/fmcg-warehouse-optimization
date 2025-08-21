@@ -51,8 +51,15 @@ Key features include:
 - `requirements.txt` — minimal dependencies  
 
 ---
+## 🧑‍💻 Role
+- Collaborated on data sourcing, cleaning, and preparation  
+- Responsible for building and evaluating the **K-Nearest Neighbors (KNN)** classifier  
+- Conducted model comparisons between **Logistic Regression, LDA, and KNN**, analyzing test error, sensitivity, and specificity  
+- Summarized results to support the final selection of KNN as the best classification model for inventory risk detection  
 
-## How to Run (Locally)
+---
+
+## ▶️ How to Run (Locally)
 ```bash
 git clone https://github.com/KalyaniChikshe/fmcg-warehouse-optimization.git
 cd fmcg-warehouse-optimization
