@@ -52,6 +52,7 @@ Key features include:
 
 ---
 ## 🧑‍💻 Role
+Team project
 - Collaborated on data sourcing, cleaning, and preparation  
 - Responsible for building and evaluating the **K-Nearest Neighbors (KNN)** classifier  
 - Conducted model comparisons between **Logistic Regression, LDA, and KNN**, analyzing test error, sensitivity, and specificity  
